@@ -66,7 +66,3 @@ def trivia_command():
 
     # return 200 OK response
     return Response(), 200
-
-
-if __name__ == '__main__':
-    app.run()
