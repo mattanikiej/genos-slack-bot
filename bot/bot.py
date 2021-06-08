@@ -2,7 +2,7 @@ import slack
 import os
 from flask import Flask, request, Response
 from slackeventsapi import SlackEventAdapter
-from trivia_questions_answers import Trivia
+from bot.trivia_questions_answers import Trivia
 
 # get path vars
 token = os.getenv('GENOS_BOT_TOKEN')
