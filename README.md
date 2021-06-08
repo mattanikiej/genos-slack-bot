@@ -11,7 +11,7 @@ since One Punch Man is an incredibly funny show.
 * If a user types in "physics stinks", the bot replies with "you stink"
 * /trivia command
     * Sends a random trivia question and awaits the first response. If the user is correct, responds with "Congrats!
-    have a cookie." Otherwise responds with "pathetic."
+    have a cookie. :cookie:" Otherwise responds with "pathetic."
     
 ## Authors
 * Matt Anikiej
